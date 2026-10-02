@@ -1,5 +1,7 @@
 # Music Analysis Studio
 
+![Native workspace](Docs/Workspace.png)
+
 A native iPad and Mac workspace for inspecting the structure of local audio. Apple’s Music Understanding framework analyzes the selected file on device; the app presents timing, loudness, key, pace, and instrument activity alongside playback.
 
 ## Workflow
